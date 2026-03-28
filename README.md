@@ -1,2 +1,63 @@
-# TWCIPTV
-IPTV Playlist
+
+<!DOCTYPE html>
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="referrer" content="no-referrer-when-downgrade">
+    <meta name="7searchppc" content="2de4a6d446c247b00bfd3a3773f7ec6c">
+    
+<title>Tamilwebcast.com – Official Links</title>
+<link rel = "icon" href = "./web/fevicon.png" type = "image/x-icon" />
+<link rel="shortcut icon" type="image/x-icon" href="./web/fevicon.png">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="All official links in one place. Stay connected with our verified platforms.">
+<link href="./web/css2" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+<link rel="stylesheet" href="./web/style.css">
+<script>
+document.addEventListener('contextmenu', event => event.preventDefault());
+</script>
+</head>
+
+<body>
+<div class="background"></div>
+
+<div class="container">
+  <div class="profile">
+    <img src="./web/fevicon.png" alt="Logo">
+    <h1>TamilWebCast.Com</h1>
+    <p>Official links &amp; Updates Hub</p>
+  </div>
+
+  <p class="content-text">
+    Welcome to TamilWebCast.Com. This website is created to share our official
+    platforms and verified social channels in one place for user convenience.
+    We do not host any media content on this website.
+  </p>
+
+   <a href="https://t.me/TWC_IPTV" class="link-btn"><i class="fab fa-telegram"></i> Telegram Main</a>
+  <a href="https://tamilwebcast.com/IPTV/" class="link-btn"><i class="fa-solid fa-tv"></i> Web TV</a>
+  <a href="./TWCIPTV.m3u" class="link-btn"><i class="fa-solid fa-link"></i> IPTV Playlist Link</a>
+<a href="https://media.tamilwebcast.com" class="link-btn"><i class="fa-solid fa-tv"></i> Web OTT Media Server</a>
+    <a href="https://tamilwebcast.com/OTT-Navigator.apk" class="link-btn"><i class="fa-brands fa-android"></i> OTT Navigator Apk</a>
+   
+</a>
+  <div class="ads-placeholder"><br>Free Xtream Code</br><br>Host: tv.tamilwebcast.com</br> <br>Username: TWC-FAMILY</br><br>Password: TWC-FAMILY</br></div>
+
+  <footer>
+    <a href="./web/about.html">About</a> |
+    <a href="./web/privacy.html">Privacy Policy</a> |
+    <a href="./web/contact.html">Contact</a> |
+    <a href="./web/disclaimer.html">Disclaimer</a>
+    <br><br>
+    © 2026 TamilWebCast
+  </footer>
+</div>
+ <script src="main.js"></script>
+    <script type='text/javascript'>
+      //<![CDATA[
+      // Say Hi to Adblock
+      function downloadJSAtOnload(){var e=document.createElement("script");e.src="https://cdn.jsdelivr.net/gh/Arlina-Design/quasar@master/arlinablock.js",document.body.appendChild(e)}window.addEventListener?window.addEventListener("load",downloadJSAtOnload,!1):window.attachEvent?window.attachEvent("onload",downloadJSAtOnload):window.onload=downloadJSAtOnload;
+      //]]>
+      </script>
+
+</body></html>
