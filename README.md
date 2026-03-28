@@ -1,7 +1,7 @@
 
 
-   TamilWebCast.Com
-  Official links &amp; Updates Hub
+   <br> TamilWebCast.Com</br>
+  <br> Official links &amp; Updates Hub</br>
 
   <p class="content-text">
     Welcome to TamilWebCast.Com. This website is created to share our official
@@ -15,8 +15,7 @@
 <br><a href="https://media.tamilwebcast.com" class="link-btn"><i class="fa-solid fa-tv"></i> Web OTT Media Server</a></br>
    <br><a href="https://tamilwebcast.com/OTT-Navigator.apk" class="link-btn"><i class="fa-brands fa-android"></i> OTT Navigator Apk</a></br>
    
-</a>
-  <div class="ads-placeholder"><br>Free Xtream Code</br><br>Host: tv.tamilwebcast.com</br> <br>Username: TWC-FAMILY</br><br>Password: TWC-FAMILY</br></div>
+<br>Free Xtream Code</br><br>Host: tv.tamilwebcast.com</br> <br>Username: TWC-FAMILY</br><br>Password: TWC-FAMILY</br></div>
 
   <footer>
     <a href="./web/about.html">About</a> |
