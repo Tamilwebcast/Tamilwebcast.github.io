@@ -15,7 +15,7 @@
 <br><a href="https://media.tamilwebcast.com" class="link-btn"><i class="fa-solid fa-tv"></i> Web OTT Media Server</a></br>
    <br><a href="https://tamilwebcast.com/OTT-Navigator.apk" class="link-btn"><i class="fa-brands fa-android"></i> OTT Navigator Apk</a></br>
    
-<br>Free Xtream Code</br><br>Host: tv.tamilwebcast.com</br> <br>Username: TWC-FAMILY</br><br>Password: TWC-FAMILY</br></div>
+<br>DOWNLOAD OTT Navigator Apk and paste link (https://tamilwebcast.com/TWCIPTV.m3u) at provider URL</br>
 
   <footer>
     <a href="./web/about.html">About</a> |
