@@ -11,7 +11,7 @@
 
    <br><a href="https://t.me/TWC_IPTV" class="link-btn"><i class="fab fa-telegram"></i> Telegram Main</a></br>
   <br><a href="https://tamilwebcast.com/IPTV/" class="link-btn"><i class="fa-solid fa-tv"></i> Web TV</a></br>
-  <br><a href="./TWCIPTV.m3u" class="link-btn"><i class="fa-solid fa-link"></i> IPTV Playlist Link</a></br>
+  <br><a href="./ott.m3u" class="link-btn"><i class="fa-solid fa-link"></i> IPTV Playlist Link</a></br>
 <br><a href="https://media.tamilwebcast.com" class="link-btn"><i class="fa-solid fa-tv"></i> Web OTT Media Server</a></br>
    <br><a href="https://tamilwebcast.com/OTT-Navigator.apk" class="link-btn"><i class="fa-brands fa-android"></i> OTT Navigator Apk</a></br>
    
